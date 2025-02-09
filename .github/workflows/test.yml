@@ -2,8 +2,6 @@ name: Test
 
 on:
   push:
-    branches:
-      - main
   pull_request:
 
 # Copy of https://github.com/joshka/github-workflows/blob/main/.github/workflows/rust-test.yml
